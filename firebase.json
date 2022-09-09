@@ -1,7 +1,7 @@
 {
   "hosting": {
     "site": "mir4craft",
-    "public": "public",
+    "public": "dist",
     "ignore": [
       "firebase.json",
       "**/.*",
